@@ -1,0 +1,4 @@
+com.google.android.gms
+com.google.android.gms.location.history
+com.google.android.gms.supervision
+com.android.vending
